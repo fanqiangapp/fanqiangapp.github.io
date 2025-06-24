@@ -1,4 +1,4 @@
-# 翻墙APP - 6月24日21M/S|免费V2ray/SSR/Clash/Shadowrocket节点推荐，VPN节点购买推荐  更新时间 2025-06-24 14:48:41
+# 翻墙APP - 6月24日18.6M/S|免费Clash/Shadowrocket/V2ray/SSR节点推荐，VPN节点购买推荐  更新时间 2025-06-24 14:53:08
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://fanqiangapp.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
