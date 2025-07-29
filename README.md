@@ -1,4 +1,4 @@
-# 翻墙APP - 7月23日22.8M/S|免费V2ray/Shadowrocket/SSR/Clash节点推荐，VPN节点购买推荐  更新时间 2025-07-23 10:40:43
+# 翻墙APP - 7月29日19.8M/S|免费SSR/V2ray/Shadowrocket/Clash节点推荐，VPN节点购买推荐  更新时间 2025-07-29 10:22:08
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://fanqiangapp.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### Clash订阅链接
 
-- https://fanqiangapp.github.io/uploads/2025/07/0-20250723.yaml
-- https://fanqiangapp.github.io/uploads/2025/07/1-20250723.yaml
-- https://fanqiangapp.github.io/uploads/2025/07/2-20250723.yaml
-- https://fanqiangapp.github.io/uploads/2025/07/3-20250723.yaml
-- https://fanqiangapp.github.io/uploads/2025/07/4-20250723.yaml
+- https://fanqiangapp.github.io/uploads/2025/07/0-20250729.yaml
+- https://fanqiangapp.github.io/uploads/2025/07/1-20250729.yaml
+- https://fanqiangapp.github.io/uploads/2025/07/2-20250729.yaml
+- https://fanqiangapp.github.io/uploads/2025/07/3-20250729.yaml
+- https://fanqiangapp.github.io/uploads/2025/07/4-20250729.yaml
 
 ### V2ray订阅链接
 
-- https://fanqiangapp.github.io/uploads/2025/07/0-20250723.txt
-- https://fanqiangapp.github.io/uploads/2025/07/1-20250723.txt
-- https://fanqiangapp.github.io/uploads/2025/07/2-20250723.txt
-- https://fanqiangapp.github.io/uploads/2025/07/3-20250723.txt
-- https://fanqiangapp.github.io/uploads/2025/07/4-20250723.txt
+- https://fanqiangapp.github.io/uploads/2025/07/0-20250729.txt
+- https://fanqiangapp.github.io/uploads/2025/07/1-20250729.txt
+- https://fanqiangapp.github.io/uploads/2025/07/2-20250729.txt
+- https://fanqiangapp.github.io/uploads/2025/07/3-20250729.txt
+- https://fanqiangapp.github.io/uploads/2025/07/4-20250729.txt
 
 ### Sing-box订阅链接
 
-- https://fanqiangapp.github.io/uploads/2025/07/20250723.json
+- https://fanqiangapp.github.io/uploads/2025/07/20250729.json
 
 ## 更多clash节点订阅 ：
 
